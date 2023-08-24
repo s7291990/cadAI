@@ -1,0 +1,41 @@
+@charset "utf-8";
+.studioPage{width:100%;height:auto;overflow:hidden;}
+.studioPage .header{width:100%;height:84px;background:#041836;display:flex;justify-content:space-between;align-items:center;}
+.studioPage .header h1{margin-left:60px;display:flex;justify-content:flex-start;align-items:center;}
+.studioPage .header h1 img{max-width:263px;}
+.studioPage .header .sideList{display:flex;justify-content:flex-start;align-items:center;margin-right:60px;}
+.studioPage .header .sideList ul{display:flex;justify-content:flex-start;align-items:center;}
+.studioPage .header .sideList ul li{width:32px;height:32px;display:flex;justify-content:center;align-items:center;}
+.studioPage .header .sideList ul li + li{margin-left:20px;}
+.studioPage .header .sideList ul li a{display:flex;justify-content:center;align-items:center;}
+.studioPage .header .sideList .userMenu{margin-left:30px;position:relative;display:flex;justify-content:flex-start;align-items:center;}
+.studioPage .header .sideList .userMenu a{display:flex;justify-content:flex-start;align-items:center;}
+.studioPage .header .sideList .userMenu a span{display:flex;font-size:16px;color:#fff;}
+.studioPage .header .sideList .userMenu a img{display:flex;margin-left:8px;}
+
+.studioPage .container{width:100%;height:auto;overflow:hidden;}
+.studioPage .container .listHeader{width:calc( 100% - 120px );margin:0 auto;padding:60px 0 40px 0;height:auto;overflow:hidden;display:flex;justify-content:space-between;align-items:center;}
+.studioPage .container .listHeader .scont{width:100%;flex:1;height:auto;overflow:hidden;}
+.studioPage .container .listHeader .scont .stit{width:100%;height:auto;overflow:hidden;font-size:40px;color:#101014;font-weight:700;line-height:40px;}
+.studioPage .container .listHeader .scont .sdesc{width:100%;height:auto;overflow:hidden;margin-top:12px;font-size:18px;color:#66666F;font-weight:400;line-height:40px;}
+.studioPage .container .listHeader .sideBtn{display:flex;justify-content:flex-start;align-items:center;}
+.studioPage .container .listHeader .sideBtn button{border:0;display:flex;justify-content:center;align-items:center;border-radius: 12px;
+    background: linear-gradient(40deg, #00C7BE 0%, #3182F7 100%);width:146px;height:57px;overflow:hidden;padding:0;font-size:18px;color:#fff;font-weight:700;
+}
+
+.studioPage .container .listCont{width:calc( 100% - 120px );margin:0 auto;padding:0px 0 40px 0;height:auto;}
+.studioPage .container .listCont>ul{width:calc( 100% + 40px );margin-left:-20px;height:auto;}
+.studioPage .container .listCont>ul>li{float:left;width:420px;margin:0 20px 20px 20px;padding:20px;border-radius:20px;height:auto;border:1px solid #C5C5C5;background:#fff;position:relative;}
+.studioPage .container .listCont ul li .mpic{width:100%;height:280px;overflow:hidden;border-radius:16px;background-color:#DDDCBE;background-size:cover !important;}
+.studioPage .container .listCont ul li .mtit{width:100%;height:auto;overflow:hidden;margin-top:20px;font-size:24px;color:#101014;font-weight:700;}
+.studioPage .container .listCont ul li .mdate{width:100%;height:auto;overflow:hidden;margin-top:10px;font-size:16px;color:#66666F;font-weight:500;}
+.studioPage .container .listCont ul li .menuItem{position:absolute;right:24px;top:28px;}
+.studioPage .container .listCont ul li .menuItem>a{width:32px;height:32px;overflow:hidden;display:flex;justify-content:center;align-items:center;}
+.studioPage .container .listCont ul li .menuItem .smenuLayer{z-index:50;border-radius: 12px;
+    border: 1px solid #C5C5C5;width:160px;height:auto;overflow:hidden;position:absolute;left:0px;top:36px;
+    background:#FFF;
+    box-shadow: 0px 2px 10px 0px rgba(0, 0, 0, 0.18);}
+.studioPage .container .listCont ul li .menuItem .smenuLayer ul{width:calc( 100% - 32px );height:auto;overflow:hidden;margin:16px;}
+.studioPage .container .listCont ul li .menuItem .smenuLayer ul li{width:100%;height:auto;overflow:hidden;}
+.studioPage .container .listCont ul li .menuItem .smenuLayer ul li + li{border-top:1px solid #EFEFEF;}
+.studioPage .container .listCont ul li .menuItem .smenuLayer ul li a{width:100%;height:44px;overflow:hidden;display:flex;justify-content:flex-start;align-items:center;font-size:16px;color:#101014;font-weight:700;}
