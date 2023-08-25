@@ -1,2 +1,40 @@
 @charset "utf-8";
-.studioPage{width:100%;height:auto;overflow:hidden;}
+.searchResultPage{width:100%;height:auto;overflow:hidden;}
+.searchResultPage .mtit{}
+.searchResultPage .mcnt{}
+.searchResultPage .mcnt strong{}
+.searchResultPage .rsList{}
+.searchResultPage .rsList dl{}
+.searchResultPage .rsList dl dt{}
+.searchResultPage .rsList dl dd{}
+.searchResultPage .rsList dl dd ul{}
+.searchResultPage .rsList dl dd ul li{}
+.searchResultPage .rsList dl dd ul li .uinfo{}
+.searchResultPage .rsList dl dd ul li .uinfo .upic{}
+.searchResultPage .rsList dl dd ul li .uinfo .uname{}
+.searchResultPage .rsList dl dd ul li .uinfo .ucate{}
+.searchResultPage .rsList dl dd ul li .listCont{}
+.searchResultPage .rsList dl dd ul li .listCont .mcont{}
+.searchResultPage .rsList dl dd ul li .listCont .mcont .stit{}
+.searchResultPage .rsList dl dd ul li .listCont .mcont .sdate{}
+.searchResultPage .rsList dl dd ul li .listCont .mcont .sdesc{}
+.searchResultPage .rsList dl dd ul li .listCont .mcont .setc{}
+.searchResultPage .rsList dl dd ul li .listCont .mcont .setc .like{}
+.searchResultPage .rsList dl dd ul li .listCont .mcont .setc .like img{}
+.searchResultPage .rsList dl dd ul li .listCont .mcont .setc .like span{}
+.searchResultPage .rsList dl dd ul li .listCont .mcont .setc .reply{}
+.searchResultPage .rsList dl dd ul li .listCont .mcont .setc .reply img{}
+.searchResultPage .rsList dl dd ul li .listCont .mcont .setc .reply span{}
+.searchResultPage .rsList dl dd ul li .listCont .mcont .setc label{}
+.searchResultPage .rsList dl dd ul li .listCont .mcont .setc label input{}
+.searchResultPage .rsList dl dd ul li .listCont .mcont .setc label span{}
+.searchResultPage .rsList dl dd ul li .mpic{}
+
+.sideBtn{}
+.sideBtn button{}
+.sideBtn .sideLayer{}
+.sideBtn .sideLayer ul{}
+.sideBtn .sideLayer ul li{}
+.sideBtn .sideLayer ul li a{}
+.sideBtn .sideLayer ul li a img{}
+.sideBtn .sideLayer ul li a span{}

@@ -1,2 +1,17 @@
 @charset "utf-8";
-.studioPage{width:100%;height:auto;overflow:hidden;}
+.noticePage{width:100%;height:auto;overflow:hidden;}
+.noticePage .mtit{}
+.noticePage .listBox{}
+.noticePage .listBox .scrolls{}
+.noticePage .listBox .scrolls ul{}
+.noticePage .listBox .scrolls ul li{}
+.noticePage .listBox .scrolls ul li a{}
+.noticePage .listBox .scrolls ul li a .stit{}
+.noticePage .listBox .scrolls ul li a .sdate{}
+.noticePage .btnGroup{}
+.noticePage .btnGroup button{}
+
+.noticePage .listBox .scrolls .vtit{}
+.noticePage .listBox .scrolls .vdate{}
+.noticePage .listBox .scrolls .vdesc{}
+.noticePage .listBox .scrolls .vpic{}

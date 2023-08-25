@@ -1,2 +1,18 @@
 @charset "utf-8";
-.studioPage{width:100%;height:auto;overflow:hidden;}
+.dialog{width:100%;height:auto;overflow:hidden;}
+.dialog.on{}
+.popBox{}
+.popBox .pheader{}
+.popBox .pheader .mtit{}
+.popBox .pheader .mtit img{}
+.popBox .pheader .mtit strong{}
+.popBox .pheader button{}
+.popBox .pdesc{}
+.popBox .scrolls{}
+.popBox .scrolls ul{}
+.popBox .scrolls ul li{}
+.popBox .scrolls ul li a{}
+.popBox .btnGroup{}
+.popBox .btnGroup button{}
+.popBox .btnGroup button img{}
+.popBox .btnGroup button span{}

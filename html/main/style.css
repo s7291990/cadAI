@@ -1,2 +1,117 @@
 @charset "utf-8";
-.studioPage{width:100%;height:auto;overflow:hidden;}
+header{}
+header h1{}
+.gnbList{}
+.gnbList ul{}
+.gnbList ul li{}
+.gnbList ul li a{}
+.gnbList ul li a.on{}
+.sideTitem{}
+.sideTitem .searchWrap{}
+.sideTitem .searchWrap .inp{}
+.sideTitem .searchWrap button{}
+.sideTitem .searchWrap button span{}
+.sideTitem .searchWrap button img{}
+
+.searchResultLayer{}
+.searchResultLayer.on{}
+.searchResultLayer .mtit{}
+.searchResultLayer ul{}
+.searchResultLayer ul li{}
+.searchResultLayer ul li a{}
+.searchResultLayer ul li button{}
+.searchResultLayer ul li button img{}
+
+.alimLayer{}
+.alimLayer.on{}
+.alimLayer .mtit{}
+.alimLayer .tabmenuList{}
+.alimLayer .tabmenuList ul{}
+.alimLayer .tabmenuList ul li{}
+.alimLayer .tabmenuList ul li a{}
+.alimLayer .tabmenuList ul li a.on{}
+
+.alimList{}
+.alimList li{}
+.alimList li .upic{}
+.alimList li .ucont{}
+.alimList li .ucont .otit{}
+.alimList li .ucont .odate{}
+
+/*본문*/
+.homeHeader{width:100%;height:auto;overflow:hidden;}
+.homeHeader .mpic{}
+.homeHeader .mcont{}
+
+.homeTogether{}
+.homeTogether .msg{}
+.homeTogether .msg span{}
+.homeTogether .msg strong{}
+.homeTogether .list{}
+.homeTogether .list a{}
+.homeTogether .list a img{}
+.homeTogether .list a span{}
+.homeTogether .list ul{}
+.homeTogether .list ul li{}
+.homeTogether .list ul li a{}
+.homeTogether .list ul li a .spic{}
+.homeTogether .list ul li a .stit{}
+
+.homeMeeting{}
+.homeMeeting .listHeader{}
+.homeMeeting .listHeader .mtit{}
+.homeMeeting .listHeader a{}
+.homeMeeting .listHeader a span{}
+.homeMeeting .listHeader a img{}
+.homeMeeting ul{}
+.homeMeeting ul li{}
+.homeMeeting ul li a{}
+.homeMeeting ul li a .spic{}
+.homeMeeting ul li a .spic .scate{}
+.homeMeeting ul li a .stit{}
+.homeMeeting ul li a .sname{}
+.homeMeeting ul li a .sname .upic{}
+.homeMeeting ul li a .sname .uname{}
+
+.homeNews{}
+.homeNews .mtit{}
+.homeNews .popularList{}
+.homeNews .popularList .listHeader{}
+.homeNews .popularList .listHeader .stit{}
+.homeNews .popularList .listHeader a{}
+.homeNews .popularList .listHeader a span{}
+.homeNews .popularList .listHeader a img{}
+.homeNews .popularList ul{}
+.homeNews .popularList ul li{}
+.homeNews .popularList ul li a{}
+.homeNews .popularList ul li a .minfo{}
+.homeNews .popularList ul li a .minfo .upic{}
+.homeNews .popularList ul li a .minfo .uname{}
+.homeNews .popularList ul li a .minfo .ucate{}
+.homeNews .popularList ul li a .metc{}
+.homeNews .popularList ul li a .metc .otit{}
+.homeNews .popularList ul li a .metc .like{}
+.homeNews .popularList ul li a .metc .like img{}
+.homeNews .popularList ul li a .metc .like span{}
+.homeNews .popularList ul li a .metc .like{}
+.homeNews .popularList ul li a .metc .like img{}
+.homeNews .popularList ul li a .metc .like span{}
+
+.noticeList{}
+.noticeList .listHeader{}
+.noticeList .listHeader .stit{}
+.noticeList .listHeader a{}
+.noticeList .listHeader a span{}
+.noticeList .listHeader a img{}
+.noticeList ul{}
+.noticeList ul li{}
+.noticeList ul li a{}
+.noticeList ul li a .otit{}
+.noticeList ul li a .odate{}
+
+footer{}
+footer .bname{}
+footer ul{}
+footer ul li{}
+footer ul li .key{}
+footer ul li .value{}
